@@ -38,7 +38,7 @@ Running the server normally
 npm start
 ```
 
-Running the server so it returns an error when saving/deleting for testing the client's error handling capabilities
+Running the server so it returns an error when saving/deleting for adtesting the client's error handling capabilities
 ```sh
 npm run error
 ```
